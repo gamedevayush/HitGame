@@ -64,27 +64,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1998}
     - Class: 114
-      Script: {instanceID: 2290}
+      Script: {instanceID: 2282}
     - Class: 114
-      Script: {instanceID: 2308}
+      Script: {instanceID: 2292}
     - Class: 114
-      Script: {instanceID: 2404}
+      Script: {instanceID: 2310}
     - Class: 114
-      Script: {instanceID: 2570}
+      Script: {instanceID: 2406}
     - Class: 114
-      Script: {instanceID: 2682}
+      Script: {instanceID: 2534}
     - Class: 114
-      Script: {instanceID: 2756}
+      Script: {instanceID: 2574}
     - Class: 114
-      Script: {instanceID: 2842}
+      Script: {instanceID: 2686}
     - Class: 114
-      Script: {instanceID: 16634}
+      Script: {instanceID: 2760}
     - Class: 114
-      Script: {instanceID: 18554}
+      Script: {instanceID: 2846}
     - Class: 114
-      Script: {instanceID: 18876}
+      Script: {instanceID: 3274}
     - Class: 114
-      Script: {instanceID: 28300}
+      Script: {instanceID: 3400}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -202,6 +202,12 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Remover
+  - hash:
+      serializedVersion: 2
       Hash: a1aa98c78061c6f03a8c124cda576e67
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -248,6 +254,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: e07fbc68919a3d1eee44cefdb3b2ea3e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Weapon
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -406,6 +418,12 @@ ScriptsOnlyBuild:
     className: PositionAsUV1
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: checkhit
+  - hash:
+      serializedVersion: 2
       Hash: 87ff43d2baf3385cba327d8f803a4ebb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -422,6 +440,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 48416e60cdbc46967f4ae7fd4d7b761b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Destroyer
   - hash:
       serializedVersion: 2
       Hash: a81d4c2c1cf3ad164d277d927a193679
@@ -536,31 +560,7 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Remover
-  - hash:
-      serializedVersion: 2
-      Hash: e07fbc68919a3d1eee44cefdb3b2ea3e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Weapon
-  - hash:
-      serializedVersion: 2
-      Hash: 48416e60cdbc46967f4ae7fd4d7b761b
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Destroyer
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: checkhit
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Ayush Singh/Game Assessment/Game Assessment.exe
+  playerPath: C:/Users/Ayush Singh/HitGAME/HitGame.exe
